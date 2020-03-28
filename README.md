@@ -1,10 +1,10 @@
 # Tensorflow java MNIST
 
 ## Dependencies
-### Java dependencies
-   compile group: 'org.tensorflow', name: 'tensorflow', version: '1.13.1'
-   compile group: 'org.tensorflow', name: 'proto', version: '1.13.1'
-   compile group: 'org.tensorflow', name: 'libtensorflow', version: '1.13.1'
+### Java dependencies 
+compile group: 'org.tensorflow', name: 'tensorflow', version: '1.13.1'   
+compile group: 'org.tensorflow', name: 'proto', version: '1.13.1'   
+compile group: 'org.tensorflow', name: 'libtensorflow', version: '1.13.1'   
 
 ### Tensorflow version: 1.3.0
 
