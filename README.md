@@ -19,3 +19,7 @@ gradle run
 
 ## Result
 Tested with 10000 labeled data, 9928/10000 were predicted correctly, which is 99.28%.
+
+## Reference
+[Github repo](https://github.com/kalaspuffar/tensorflow-mnist-test)
+[Youtube](https://www.youtube.com/watch?v=j3MZ0brQ0QE&t=678s)
