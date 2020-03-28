@@ -4,7 +4,7 @@ apply plugin: 'java-library-distribution'
 apply plugin: 'com.google.protobuf'
 
 sourceCompatibility = '1.8'
-mainClassName = 'edu.usfca.dataflow.Main'
+mainClassName = 'edu.usfca.dataflow.TensorflowMain'
 version = 's20.labs'
 
 repositories {
