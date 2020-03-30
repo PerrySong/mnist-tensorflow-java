@@ -55,7 +55,7 @@ public class TensorflowMain
           inc++;
         }
         int actual = mrTest.readNextLabel();
-        System.out.println("predicted: " + predict + "actual: " + actual);
+        System.out.println("predicted: " + predict + " actual: " + actual);
         if(predict == actual) {
           correct_prediction++;
         }
